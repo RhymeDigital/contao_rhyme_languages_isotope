@@ -17,8 +17,3 @@
  */
 $GLOBALS['TL_LANG']['MSC']['low_to_high']                       	= 'low to high';
 $GLOBALS['TL_LANG']['MSC']['high_to_low']                       	= 'high to low';
-
-if (TL_MODE === 'FE')
-{
-	
-}
